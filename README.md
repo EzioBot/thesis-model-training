@@ -45,7 +45,7 @@ cd "D:\thesis model training"
 
 ## Step 2: Create a Python Virtual Environment
 
-The following environment commands are based on `commands .docx`:
+
 
 ```powershell
 python -m venv --clear .venv
