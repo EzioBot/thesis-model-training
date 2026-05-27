@@ -1,0 +1,34 @@
+# Ignore dataset
+dataset/
+dataset_plate/
+dataset_processed/
+data/
+dataset.zip 
+*.zip 
+
+
+# Ignore model training outputs
+runs/
+weights/
+# *.pt
+*.pth
+*.onnx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Jupyter checkpoints
+# .ipynb_checkpoints/
+
+# Ignore OS/editor files
+# .DS_Store
+# Thumbs.db
+.vscode/
+
+# md files 
+yolov8.md
