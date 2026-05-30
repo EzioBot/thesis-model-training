@@ -3,6 +3,7 @@ dataset/
 dataset_plate/
 dataset_processed/
 data/
+*data/
 dataset.zip 
 *.zip 
 
