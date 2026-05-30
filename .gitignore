@@ -24,7 +24,7 @@ __pycache__/
 venv/
 
 # Ignore Jupyter checkpoints
-
+*.docx
 
 # Ignore OS/editor files
 # .DS_Store
